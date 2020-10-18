@@ -4,17 +4,13 @@
   <img src="https://img.shields.io/github/issues/Rafaeros/proffy" alt="Issues" style="text-align:center;">
 </p>
 
-<h2 align="center">
-  🗨 Sobre
-</h2>
+## 📄 Sobre
 
-<h3 align="center"> O projeto Proffy foi desenvolvido com o propósito de ser um ambiente de estudos online, onde o profissional de educação pode cadastrar suas aulas e o cliente pode pesquisar as aulas com base em filtros.  
- Esse Projeto desenvolvido na Next Level Week #2 da Rocketseat durante os dias 3 a 9 de agosto de 2020. 
-</h3>
+### O projeto Proffy foi desenvolvido com o propósito de ser um ambiente de estudos online, onde o profissional de educação pode cadastrar suas aulas e o cliente pode pesquisar as aulas com base em filtros.  
 
-<h2 align="center">
-  💻 Preview
-</h2> 
+### Esse Projeto desenvolvido na Next Level Week #2 da Rocketseat durante os dias 3 a 9 de agosto de 2020. 
+
+## 💻 Preview
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54757323/96377894-09dd5e80-115f-11eb-8114-4f906c44a8a5.jpg" alt="Proffy-Home">
@@ -24,4 +20,11 @@
   <img src="https://user-images.githubusercontent.com/54757323/96377898-119d0300-115f-11eb-8bc3-37884282721b.jpg" alt="Proffy-Filter">
 </p>
 
-![Badge](https://img.shields.io/github/followers/Rafaeros?label=Follow&style=social)
+## :rocket: Tecnologias Utilizadas
+
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* Nunjucks
+* SQLite
