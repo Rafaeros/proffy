@@ -66,4 +66,14 @@ npm install.
 * SQLite
 
 <hr>
+  <h2 align="center">📱 - Redes Sociais</h2>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/rafael-costa-41770a187/" alt="Linkedin">
+      Linkedin 
+    </a>
+    -
+    <a href="https://www.instagram.com/rafaeladrianc/" alt="Instagram">
+      Instagram
+    </a>
+  </p>
 <hr>
